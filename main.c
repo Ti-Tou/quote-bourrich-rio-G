@@ -19,3 +19,4 @@ int main() {
     print_random_quote(quotes);
     return 0;
 }
+//

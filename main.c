@@ -16,6 +16,6 @@ int main() {
     };
 
     srand(time(NULL));
-    //print_random_quote(quotes);
+    print_random_quote(quotes);
     return 0;
 }
